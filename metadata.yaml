@@ -1,0 +1,39 @@
+_repo: Chips-From-A-German-Workshop-Vol.-V.--13-Miscellaneous-Later-Essays_27810
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Müller, F. Max (Friedrich Max)
+    aliases:
+    - Mueller, Friedrich Max
+    - Müller, Max
+    - Müller, Friedrich Max
+    - F. Max Müller
+    - Muller, F. Max (Friedrich Max)
+    birthdate: 1823
+    deathdate: 1900
+    gutenberg_agent_id: '787'
+    url: http://www.gutenberg.org/2009/agents/787
+    wikipedia: http://en.wikipedia.org/wiki/Max_M%C3%BCller
+description: ''
+gutenberg_issued: '2009-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27810'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religions'
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'Mythology'
+- !lcsh 'Folklore'
+- !lcsh 'Comparative linguistics'
+- !lcc 'PJ'
+tableOfContents: On freedom -- On the philosophy of mythology -- On false analogies
+  in comparative theology -- On spelling -- On Sanskrit texts discovered in Japan.
+title: "Chips from a German Workshop, Volume 5\r\nMiscellaneous Later Essays"
+url: http://www.gutenberg.org/ebooks/27810
